@@ -42,7 +42,7 @@ namespace StringMethodsDemo
             //string result = string.format("{0}:{1:0.0} - {2:yyyy}", details, salary, dt);
             //console.writeline(result);
             Console.WriteLine(firstname.ToCharArray());
-            
+            Console.WriteLine(firstname.Trim());
 
         }
     }
